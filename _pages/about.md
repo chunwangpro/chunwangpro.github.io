@@ -13,12 +13,19 @@ I'm a third year undergraduate student from [School of EECS](https://eecs.pku.ed
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
+I am a Ph.D. student in Mechanical Engineering at University of Michigan, working on Molecular Machine Learning in EEG advised by Prof. Viswanathan. Earlier, I received M.S. in Computational Materials Science and Engineering at Carnegie Mellon University and did research in Mechanical and AI Lab advised by Prof. Barati Farimani. Besides, I received B.Eng in Materials Science and Engineering at South China University of Technology.
+
 My research interest lies in combining Artificial Intelligence with interdisciplinary science and engineering problems. My current research focuses on implementing and improving foundation models for material discovery and leveraging scientific machine learning for electrolyte optimization. I believe that deep learning models are able to learn representations from data so that we can understand scientific problems from a data science view, which is a significant transformation from traditional research strategies.
 
 Research Interests
 ======
-1. ML
-2. AI4Science
+1. Numerical Analysis
+3. Machine Learning
+4. Math Modeling
+5. AI4Science
+6. SciML
+7. ACO
+8. Numerical Solution of Differential Equations
 
 <!-- Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
