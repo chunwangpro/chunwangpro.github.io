@@ -11,7 +11,7 @@ About Me
 ======
 I am currently a second-year M.S. student at the University of Michigan - Ann Arbor, specializing in Electrical and Computer Engineering. I am also a member of the DAIR Lab at Peking University, where I am advised by Prof. Bin Cui and Prof. Xinyi Zhang. Our work focuses on leveraging a CDF-based framework to generate a synthetic database from exceptionally large query workloads, handling up to \\(10^8\\) queries. This project is nearing completion and is anticipated for submission to VLDB 2025. (Further details will be shared soon.)
 
-Before joining the University of Michigan, I earned a B.Eng. degree in Software Engineering from Peking University in 2023. Under the supervision of Prof. Qixun Zhang, I developed a direction-based clustering method to effectively address false positive noise in AIS (Automatic Identification System) data. Additionally, I conducted research on the Traveling Salesman Problem under the guidance of Prof. Zhengzhou Zhu. Prior to that, in 2021, I received a B.S. degree in Information and Computational Science from Wuhan University, where I worked under the supervision of Prof. Xiliang Lv to develop a Python-based Remez approximation algorithm tool. This tool efficiently handles high-order approximations (up to 33) , achieving an exceptional absolute maximum error of \\(10^{-14}\\) over any given interval. Its broader applicability extends to a wide range of general functions and higher-order approximations, significantly surpassing the performance of MATLAB's built-in toolbox.
+Before joining the University of Michigan, I earned a B.Eng. degree in Software Engineering from Peking University in 2023. Under the supervision of Prof. Qixun Zhang, I developed a direction-based clustering method to effectively address false positive noise in AIS (Automatic Identification System) data. Additionally, I conducted research on the Traveling Salesman Problem under the guidance of Prof. Zhengzhou Zhu. Prior to that, in 2021, I received a B.S. degree in Information and Computational Science from Wuhan University, where I worked under the supervision of Prof. Xiliang Lv to develop a Python Remez approximation algorithm tool. This tool efficiently handles high-order approximations (up to 33) , achieving an exceptional error of \\(10^{-14}\\) over any given interval. Its broader applicability extends to a wide range of general functions and higher-order approximations, significantly surpassing the performance of MATLAB's built-in toolbox.
 
 <!-- I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. -->
 
@@ -21,9 +21,9 @@ My research interests lie at the intersection of computational problems and inte
 
 1. Numerical Methods and Scientific Computing
 2. Algorithms, Combinatorics and Optimization (ACO)
-4. Synthetic Database Generation
-5. Machine Learning
-6. AI4Science
+3. Synthetic Database Generation
+4. Machine Learning
+5. AI4Science
 
 <!-- Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
