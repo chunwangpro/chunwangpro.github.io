@@ -16,15 +16,7 @@ Before joining the University of Michigan, I earned a B.Eng. degree in Software 
 <!-- I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. -->
 
 
-
-I have a broad interest in software systems.
-
-
-
-
-My current research focuses on enhancing the reliability of distributed systems. 
-
-My current research interest lies in combining Artificial Intelligence with interdisciplinary science and engineering problems. My current research focuses on implementing and improving foundation models for material discovery and leveraging scientific machine learning for electrolyte optimization. I believe that deep learning models are able to learn representations from data so that we can understand scientific problems from a data science view, which is a significant transformation from traditional research strategies.
+My research interests lie at the intersection of computational problems and interdisciplinary science. Currently, my work focuses on developing and enhancing foundational numerical algorithms while leveraging scientific machine learning for database query optimization. I am particularly fascinated by how deep learning models can extract meaningful representations from data, offering a data-driven perspective to understanding scientific problems—marking a significant shift from traditional research approaches.
 
 Research Interests
 ======
