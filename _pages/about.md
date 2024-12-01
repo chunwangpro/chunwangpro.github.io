@@ -20,13 +20,11 @@ My research interests lie at the intersection of computational problems and inte
 
 Research Interests
 ======
-1. Numerical Analysis
-2. Machine Learning
-3. Math Modeling
-4. AI4Science
-5. SciML
-6. ACO
-7. Numerical Solution of Differential Equations
+1. Numerical Methods and Scientific Computing
+2. Algorithms, Combinatorics and Optimization (ACO)
+4. Numerical Solution of Differential Equations
+5. Machine Learning
+6. AI4Science
 
 <!-- Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
