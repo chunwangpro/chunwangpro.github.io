@@ -20,8 +20,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "CV"
-  url: 'http://academicpages.github.io/assets/CV.pdf'
+  # - title: "CV"
+  #   url: 'http://academicpages.github.io/assets/CV.pdf'
 
   # - title: "CV"
   #   url: /cv/
