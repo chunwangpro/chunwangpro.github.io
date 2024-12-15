@@ -23,8 +23,8 @@ main:
   - title: "Blog"
     url: /year-archive/
 
-  # - title: "CV"
-  #   url: 'http://academicpages.github.io/assets/CV.pdf'
+  - title: "CV"
+    url: 'http://chunwangpro.github.io/files/CV.pdf'
 
   # - title: "CV"
   #   url: /cv/
