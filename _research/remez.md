@@ -2,10 +2,8 @@
 title: 'Remez Approximation Solver'
 # date: 2019-11-20
 collection: research
-permalink: /research/remez
+permalink: /Remez_Python
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
-======
+- Proposed a relaxation step in Remez Exchange Algorithm, search the equioscillation points of error derivative more robustly. Applicable to arbitrary interval length and handle non-smooth functions.
+- Shared same precision with MATLAB toolbox for low-degrees (2nd order), extendable to up to 33rd with better error guarantees of $10^{-14}$.
